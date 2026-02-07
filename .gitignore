@@ -4,6 +4,6 @@ __pycache__/
 *.pyc
 *.pyo
 .pytest_cache/
-cat images_resized/
+cat images/
 *.sqlite3
 .DS_Store
